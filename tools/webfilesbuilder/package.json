@@ -9,12 +9,12 @@
   "author": "ESP-RFID Developers",
   "license": "UNLICENSED",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-flatmap": "^1.0.2",
     "gulp-gzip": "^1.4.2"
   },
   "dependencies": {
-    "gulp-htmlmin": "^4.0.0"
+    "gulp-htmlmin": "^5.0.0"
   }
 }
